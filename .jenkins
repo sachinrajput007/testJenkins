@@ -1,0 +1,8 @@
+
+  
+pipeline {
+  agent any
+  stages {
+    sh 'echo "test successfully done"'
+  }
+ }
